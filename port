@@ -6,10 +6,200 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>inicio - abner mamani portfolio</title>
+    <style>
+
+    </style>
 </head>
 
 <body>
-    abner mamani portfolio😀
+ <nav>
+     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQA3QO-Zo1pppmpwrnZ-Fnu130IXMaosPn2dQ&usqp=CAU" alt="logo de mi sitio web"
+     height="64px" />
+     <!--
+      crc: origen de la imagen
+      alt: descropcon de la imagen
+     -->
+     <ul>
+         <li>github</li>
+         <li>linkeding</li>
+     </ul>
+
+     <!-- ul: lista desordenada (unorder list) -->
+     </nav>
+ <header>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsTiZ9qerQnIYQXRftCjPguCrLgdJUiQv1Mw&usqp=CAU" alt="este es goku">
+    <h4>
+     react developer    
+    </h4>
+    <h1>
+     hola este es <span>goku</span>  y me gustaria
+    cintarte cosas sobre el   
+    </h1>
+     <a href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsTiZ9qerQnIYQXRftCjPguCrLgdJUiQv1Mw&usqp=CAU">
+         ver imagen 
+     </a>
+     <!-- 
+         a: sirve para anclar otras paginas web 
+     -->
+</header>
+<section style="background-color:beige">
+    <p>
+    Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nobis, eum tempora ea at totam ipsum cupiditate rem sed numquam debitis?
+</p>
+<p>
+    Lorem ipsum dolor sit amet consectetur adipisicing elit. Facere ipsum distinctio autem quaerat sit repudiandae et facilis eum nisi magni placeat sequi totam quisquam officiis dolores accusantium aspernatur hic doloremque dolorem inventore numquam, illo temporibus.
+</p>
+Lorem ipsum dolor sit amet consectetur, adipisicing elit. Soluta odit, dignissimos sed necessitatibus eos cupiditate?
+</p>
+</section>
+<section>
+    <h2>abilidades</h2>
+    <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ipsam autem esse deserunt consequuntur eum, quam voluptatem. Quia mollitia officiis ut?</p>
+    <div>
+        <div style="border: 1px solid #000; width: 20%;">
+            <div>
+                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsTiZ9qerQnIYQXRftCjPguCrLgdJUiQv1Mw&usqp=CAU" alt="goku"
+                height="20px">
+                <h4>javascript</h4>
+                <span>* 6 años</span>
+            </div>
+            <div>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Necessitatibus quas est maxime assumenda quam magnam? Corporis similique commodi dolorem quibusdam?</p>
+            </div>
+            <div>
+                <span>ember</span>
+                <span>react</span>
+                <span>gatsby</span>
+            </div>
+
+        </div>
+        <div style="border: 1px solid #000; width: 20%;">
+            <div>
+                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsTiZ9qerQnIYQXRftCjPguCrLgdJUiQv1Mw&usqp=CAU" alt="goku"
+                height="20px">
+                <h4>javascript</h4>
+                <span>* 6 años</span>
+            </div>
+            <div>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Necessitatibus quas est maxime assumenda quam magnam? Corporis similique commodi dolorem quibusdam?</p>
+            </div>
+            <div>
+                <span>ember</span>
+                <span>react</span>
+                <span>gatsby</span>
+            </div>
+
+        </div>
+        <div style="border: 1px solid #000; width: 20%;">
+            <div>
+                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsTiZ9qerQnIYQXRftCjPguCrLgdJUiQv1Mw&usqp=CAU" alt="goku"
+                height="20px">
+                <h4>javascript</h4>
+                <span>* 6 años</span>
+            </div>
+            <div>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Necessitatibus quas est maxime assumenda quam magnam? Corporis similique commodi dolorem quibusdam?</p>
+            </div>
+            <div>
+                <span>ember</span>
+                <span>react</span>
+                <span>gatsby</span>
+            </div>
+
+        </div>
+        <div style="border: 1px solid #000; width: 20%;">
+            <div>
+                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsTiZ9qerQnIYQXRftCjPguCrLgdJUiQv1Mw&usqp=CAU" alt="goku"
+                height="20px">
+                <h4>javascript</h4>
+                <span>* 6 años</span>
+            </div>
+            <div>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Necessitatibus quas est maxime assumenda quam magnam? Corporis similique commodi dolorem quibusdam?</p>
+            </div>
+            <div>
+                <span>ember</span>
+                <span>react</span>
+                <span>gatsby</span>
+            </div>
+
+        </div>
+    </div>
+</section>
+<section style="background-color:beige">
+    <h3>algunos de mis proyectos</h2>
+    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dignissimos, rem.</p>
+</section>
+<div style="border: 1px solid #000; width: 33.33%;">
+    <h5>proyecto 1</h5>
+    <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit.</p>
+    <div>
+        <span>ember</span>
+        <span>react</span>
+        <span>gatsby</span>
+    </div>
+    <div>
+        <span>full desing & development</span>
+        
+    </div>
+    <img src="https://ivanvotti.com/static/6c7cc6c9ead4655e892a24c6b593ff18/fabdf/vertebrolog.webp" alt="" width="100&">
+</div>
+
+<div style="border: 1px solid #000; width: 33.33%;">
+    <h5>proyecto 2</h5>
+    <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit.</p>
+    <div>
+        <span>ember</span>
+        <span>react</span>
+        <span>gatsby</span>
+    </div>
+    <div>
+        <span>full desing & development</span>
+        
+    </div>
+    <img src="https://ivanvotti.com/static/694eabe08cd1dc177638127547a6378e/fabdf/csural.webp" alt="" width="100&">
+</div>
+<div style="border: 1px solid #000; width: 33.33%;">
+    <h5>proyecto 3</h5>
+    <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit.</p>
+    <div>
+        <span>ember</span>
+        <span>react</span>
+        <span>gatsby</span>
+    </div>
+    <div>
+        <span>full desing & development</span>
+        
+    </div>
+    <img src="https://ivanvotti.com/static/ccb2ec424120520a4e18ac40fb1e12ff/fabdf/svgjar.webp" alt="" width="100&">
+</div>
+<section>
+    <img src="https://ivanvotti.com/static/cfe0191b18ad06cd620f3e1b65c34964/8b3f0/working.webp" alt="imagen decorativo" width="100%">
+</section>
+<section style="background-color:beige">
+    <h2>contactanos</h2>
+    <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Veritatis explicabo similique modi nam error esse dolore quos iure, consequatur eum dolor vel molestiae saepe temporibus al</p>
+    <form action="#">
+        <input type="text" placeholder="tu nombre">
+        <input type="text" placeholder="tu correo electronico">
+        <textarea name="" id="" cols="30" rows="10" placeholder="tu mensaje"></textarea>
+        <button>enviar</button>
+    </form>
+</section>
+<footer>
+    <div">
+        <p>diseñado por abner</p>
+    </div>
+    <div">
+        <ul>
+            <li>😀</li>
+            <li>😁</li>
+            <li>😎</li>
+            <li>😣</li>
+            <li>🤔</li>
+        </ul>
+    </div>
+</footer>
 </body>
 
 </html>
